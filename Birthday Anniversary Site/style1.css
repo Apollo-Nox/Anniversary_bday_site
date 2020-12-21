@@ -1,0 +1,26 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+    margin: auto;
+}
+
+.memories {
+    height: 350px;
+    width: 300px;
+    padding: 90px;
+}
+
+.surprise {
+    background-color: #f56a79;
+    margin: 0;
+    padding: 35px;
+    font-family: 'Sansita Swashed', cursive;
+    color: white;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Oleo Script', cursive;
+    font-size: 40px;
+    margin: 0 250px;
+}
